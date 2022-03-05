@@ -1,5 +1,5 @@
 # PrudentTutorialsApp
-# PrudentTutorialsApp
+
 
 Tutorial has id, title, description and published status. 
 
