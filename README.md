@@ -28,8 +28,14 @@ Encountered problems with api.Have to trouble shoot.
 
 Created controller with CRUD functions.
 
+
+
+
+
 const db = require("../models");
+
 const Tutorial = db.tutorials;
+
 // Create and Save a new Tutorial
 exports.create = (req, res) => {
   
@@ -56,6 +62,9 @@ exports.deleteAll = (req, res) => {
 };
 // Find all published Tutorials
 exports.findAllPublished = (req, res) => {
+
+
+
 
 
 Implemented the CRUD functions. 
